@@ -1,0 +1,12 @@
+# Replace the placeholders with real GitHub usernames.
+# The last matching pattern takes precedence.
+
+*                          @program-lead
+/docs/business/            @program-lead @ops-finance-owner
+/docs/tracks/cs-it.md      @csit-mentor-lead
+/docs/tracks/bca-mca.md    @bcamca-mentor-lead
+/docs/tracks/mechanical.md @mech-mentor-lead
+/docs/tracks/common-modules.md @content-owner
+/docs/operations/          @program-lead @content-owner
+/docs/decisions/           @program-lead
+/team/                     @program-lead

@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Private data: never commit
+private/
+*.csv
+*.xlsx
+*.env
+.env*
+secrets/
+
+# Student or mentor personal data
+students/
+resumes/
+recordings/
+
+# Build and temp
+node_modules/
+*.log
+*.tmp
