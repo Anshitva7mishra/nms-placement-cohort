@@ -1,48 +1,48 @@
 # Weekly Cycle
 
-The rhythm stays the same every week so students always know what happens when.
+The weekly cycle provides a consistent, disciplined rhythm for the cohort. It blends **Lead Teacher instruction**, **24/7 AI-assisted practice**, and **weekend live mock evaluations**.
 
 ```mermaid
 flowchart TD
-    A["Monday: Weekly target set"] --> B["Tue and Wed: Concept sessions"]
-    B --> C["Thursday: Practice and doubt session"]
-    C --> D["Friday: Mini test"]
-    D --> E["Saturday: Mock interviews"]
-    E --> F["Sunday: Review and leaderboard update"]
+    A["Monday: Target setting & AI checklist release"] --> B["Tue & Wed: Teacher live masterclasses"]
+    B --> C["Thursday: Practice + 24/7 AI doubts + Teacher clinic"]
+    C --> D["Friday: Mini test with instant AI analysis"]
+    D --> E["Saturday: 1-on-1 Mock interviews & written rubrics"]
+    E --> F["Sunday: Weekly review, leaderboard & progress report"]
     F --> A
 ```
 
-| Day | Activity | Output |
-|---|---|---|
-| Monday | Goal setting | Weekly checklist |
-| Tuesday and Wednesday | Concept sessions | Notes and practice set |
-| Thursday | Practice and doubts | Solved problems |
-| Friday | Mini test | Score |
-| Saturday | Mock interviews | Written feedback |
-| Sunday | Review | Progress report |
+| Day | Activity | Driven By | Key Output |
+|---|---|---|---|
+| **Monday** | Weekly goal setting & target release | Lead Teacher & Ops | Weekly checklist and graded problem set |
+| **Tuesday & Wednesday** | Live concept masterclasses (Tech & Mech parallel) | Lead Teachers | Recorded masterclass, slides, and annotated code |
+| **Thursday** | Practice day, 24/7 AI doubt solving, Teacher clinic | AI Assistant + Teacher | Solved problem set; complex doubts resolved |
+| **Friday** | Timed weekly mini-test | Assessment platform & AI | Scorecard, test analysis, error breakdown |
+| **Saturday** | 1-on-1 mock interviews (Tech & HR) | Mock Evaluators | Standardized rubric scorecard & written feedback |
+| **Sunday** | Review, peer group check-in, leaderboard refresh | Ops & Lead Teachers | Comprehensive weekly progress report |
 
-## Mentor Weekly Duties
+## Roles in the Weekly Cycle
 
-1. Set and share the weekly target
-2. Conduct or support concept and doubt sessions
-3. Check the mini test and give score feedback
-4. Run mock interviews and write feedback
-5. Lead the accountability group check-in
-6. Update the progress report
+### Lead Teacher Duties
+1. Set the weekly curriculum targets and curated problem sets.
+2. Conduct live masterclasses on Tuesday and Wednesday (CS/IT/BCA/MCA combined, Mechanical separate).
+3. Lead the live Thursday doubt clinic for escalated, complex concepts.
+4. Review weekly mini-test results to identify cohort-wide weak areas.
 
-## Student Weekly Duties
+### AI Assistant Duties
+1. Provide 24/7 real-time hints, debugging help, and explanation for practice problems.
+2. Auto-grade Friday tests and provide instant line-by-line feedback.
+3. Conduct on-demand AI mock drills (technical MCQs, theory prompts, and behavioral questions).
+4. Review draft resumes against ATS checks and keyword patterns.
 
-1. Complete the weekly checklist
-2. Attend sessions and the mock interview
-3. Act on written feedback
-4. Join the accountability group check-in
+### Mock Evaluator Duties
+1. Conduct scheduled 30–45 minute 1-on-1 mock interviews during weekend slots.
+2. Fill out the standard NMS rubric (technical depth, communication, problem-solving, ownership).
+3. Deliver constructive, actionable verbal and written feedback within 12 hours.
 
-## Review Meeting (Sunday)
-
-| Item | Detail |
-|---|---|
-| Attendance | Sessions and mocks attended |
-| Assignments | Completion rate |
-| Mini test | Score trend |
-| Mock rating | Change from previous week |
-| Next week | Targets and support needed |
+### Student Duties
+1. Complete the weekly practice checklist on time.
+2. Attend live masterclasses and engage with the AI Assistant for doubts.
+3. Attempt the Friday mini-test under timed conditions.
+4. Attend the weekend mock interview prepared with updated resume and projects.
+5. Review written scorecard feedback and implement improvements by the next cycle.

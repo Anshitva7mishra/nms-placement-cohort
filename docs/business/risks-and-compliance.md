@@ -10,17 +10,20 @@
 | Uneven quality across tracks | Inconsistent student experience | Standard feedback format and weekly review |
 | Small Mechanical audience | Low registrations | Targeted outreach and bridge module |
 | Misuse of company names | Credibility and legal risk | Only verified and truthful claims |
-| Legal and tax issues | Penalties, payment problems | Business registration and professional advice |
+| Certificate credibility & forgery | Low recruiter/college trust | Unique verification ID lookup + Udyam MSME registration backing (ADR 0003) |
+| Legal and tax issues | Penalties, payment problems | Business registration, Udyam MSME filing, and professional advice |
 
 ## Compliance Checklist
 
-- [ ] Choose and register a business structure
+- [ ] Complete Udyam Registration (Ministry of MSME, Govt. of India)
+- [ ] Set up online certificate verification ID generator and validation page
 - [ ] Set up a business bank account and payment collection
 - [ ] Understand tax obligations with a professional
 - [ ] Publish terms, refund policy and privacy policy
 - [ ] Get consent for recording mock interviews
 - [ ] Get consent for using testimonials and results
 - [ ] Keep student data secure and out of this repository
+- [ ] Maintain batch performance audit trail for post-batch College MoUs and AICTE/NSDC application
 
 ## Claims Policy
 

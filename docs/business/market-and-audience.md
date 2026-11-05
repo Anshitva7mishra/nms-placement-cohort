@@ -1,34 +1,34 @@
 # Market and Audience
 
-## Target Segments
+## Target Segments and Streams
 
-| Segment | Who | Main pain points |
+| Stream | Target Audience | Key Pain Points |
 |---|---|---|
-| CS/IT | B.Tech CS, IT and allied branches | Heavy competition, DSA anxiety, weak interview practice |
-| BCA/MCA | BCA and MCA students | Shaky basics, low confidence, unclear off-campus path |
-| Mechanical | B.Tech Mechanical | Few resources for core roles, uncertainty about company tests, limited guidance |
+| **Combined Tech Track** | B.Tech CS/IT, BCA, and MCA students (Run together) | Heavy competition, DSA anxiety, disparate foundation levels between B.Tech and BCA/MCA, weak interview practice, unclear off-campus navigation. |
+| **Mechanical Track** | B.Tech Mechanical students (Run separately) | Scarcity of structured core placement prep, uncertainty about company-specific aptitude and core technical tests, lack of mechanical interview mentors. |
 
-## Target Year
+## Target Year Strategy (ADR 0002)
 
-Open decision: pre-final year or final year. See the decision log. The timeline and curriculum depth depend on this choice.
+The cohort targets **250 to 300 students**, segmented across academic years:
 
-| Option | Advantage | Consideration |
-|---|---|---|
-| Pre-final year | More time, deeper foundations | Urgency is lower, conversion may be slower |
-| Final year | High urgency, quicker decisions | Less time, expectations are higher |
+| Priority Tier | Academic Year | Strategic Objective | Why This Focus |
+|---|---|---|---|
+| **Primary (70–80%)** | **2nd & 3rd Year** | Foundation building, internship readiness, and on-campus prep | Ample runway (6–18 months) to master DSA, core CS/Mechanical fundamentals, and portfolio projects without panic. Best completion and success rates. |
+| **Secondary (20–30%)** | **4th Year** | Placement sprint & off-campus rescue | Immediate interview prep, high urgency, intensive resume overhaul, and targeted referral strategies. |
+| **Foundational (<10%)** | **1st Year** | Early start & programming fundamentals | Early head start in coding basics, building problem-solving habits before college coursework gets heavy. |
 
 ## Competitive Landscape
 
 | Category | Strength | Gap |
 |---|---|---|
-| Large online courses | Brand, content volume | Large batches, little personal feedback |
-| Local coaching | Physical presence | Dated content, mostly CS/IT |
-| Free YouTube and communities | Zero cost | No accountability, no personal feedback |
-| NMS | Recent experience, small batches, three tracks | New brand, trust to be built |
+| Large online courses | Brand, recorded content volume | Massive impersonal batches (1,000+), zero individual attention, slow or generic doubt resolution. |
+| Local coaching | Physical presence | Outdated syllabus, rote teaching, predominantly CS-only, lacks realistic modern mock interviews. |
+| Free YouTube & communities | Zero cost | No structured sequence, no personalized doubt resolution, zero accountability or mocks. |
+| **NMS** | **Teacher + AI Assistant hybrid model** | Masterclasses by experienced lead teachers, 24/7 AI-driven doubt and code feedback, dedicated mocks, and separate core mechanical track. |
 
 ## Positioning
 
-Small, honest, mentor-led and recent. NMS competes on feedback quality and accountability, not on content volume or promises.
+Honest, high-accountability, and AI-amplified. NMS competes on continuous personal feedback, instant 24/7 doubt resolution, and honest outcome tracking—never on hollow 100% placement guarantees.
 
 ## Research Needed
 

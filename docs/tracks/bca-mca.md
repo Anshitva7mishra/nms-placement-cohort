@@ -1,35 +1,26 @@
-# Track: BCA/MCA
+# Combined Tech Track: BCA/MCA Focus Module
 
-**Target:** BCA and MCA students
+> **Integration Note (ADR 0002):** BCA and MCA students run **combinely** with CS/IT students in the [Combined Tech Track](cs-it.md). This document outlines the specific leveling, foundational support, and off-campus strategies tailored to BCA/MCA students inside the unified stream.
+
+**Target:** BCA and MCA students  
 **Mantra:** Pehle base strong, phir speed.
 
-## Flow
+## How BCA/MCA Runs in the Combined Stream
 
-```mermaid
-flowchart LR
-    A["Programming Basics"] --> B["Problem Solving"]
-    B --> C["DBMS and Web Basics"]
-    C --> D["Aptitude and Communication"]
-    D --> E["Resume and Off-campus Strategy"]
-    E --> F["Mock Interviews"]
-    F --> G["Application Sprint"]
-```
+BCA and MCA students often start with different programming foundations and face fewer on-campus campus drives compared to B.Tech colleges. Rather than isolating them in a separate track, running together provides:
+1. Exposure to high-bar competitive problem-solving alongside B.Tech peers.
+2. An AI Assistant providing instant syntax help and baseline ramp-up without classroom embarrassment.
+3. Dedicated off-campus application sprints, cold outreach templates, and portfolio development.
 
-## Phases
+## Tailored Milestones for BCA/MCA Students
 
-| Phase | What happens | Deliverable |
+| Stage | Activity | Key Deliverable |
 |---|---|---|
-| Programming Basics | Become strong in one language | Practice problems |
-| Problem Solving | Concept-first DSA | Weekly tracker |
-| DBMS and Web | SQL and basic web concepts | Mini project |
-| Aptitude and Communication | Timed aptitude, self-introduction, confidence building | Recorded introduction |
-| Resume and Off-campus | ATS-friendly resume, LinkedIn, referral approach | Resume and application plan |
-| Mock Interviews | Technical and HR practice | Feedback sheet |
-| Application Sprint | Off-campus applications and referrals | Application log |
-
-## Why a Separate Track
-
-BCA/MCA students often start with different foundations and have fewer on-campus opportunities. The track builds fundamentals first and puts extra weight on communication and off-campus strategy.
+| **Foundation Ramp-up** | Intensive language mastery (C++, Java, or Python) with AI coding exercises | Verified syntax and basic problem-solving mastery |
+| **Combined Masterclasses** | Attend unified DSA and core CS lectures led by the Lead Teacher | Graded problem tracker |
+| **Communication & Pitch** | Self-introduction drills, recorded elevator pitch, project explanations | Video self-intro reviewed by AI / evaluator |
+| **Off-Campus Navigation** | ATS-compliant resume, LinkedIn optimization, cold email & referral etiquette | Targeted list of 30+ off-campus hiring companies |
+| **Mock Interviews** | Weekend 1-on-1 technical and behavioral mocks | Standardized feedback rubric |
 
 ## Off-campus Strategy
 

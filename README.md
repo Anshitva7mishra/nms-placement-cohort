@@ -13,11 +13,11 @@
 
 ## About
 
-NMS is a small, mentor-led placement cohort run by recently placed graduates. The program covers three tracks (CS/IT, BCA/MCA and Mechanical) with small batches, weekly mock interviews and personal written feedback.
+NMS is an instructor-led placement cohort powered by a 24/7 AI Assistant and supported by recently placed graduates. The program operates two streams: a **Combined Tech Track (CS/IT, BCA/MCA)** and an **Independent Mechanical Track**. With live teacher masterclasses, 24/7 AI-driven code feedback and doubt resolution, weekly mock interviews, and personal reviews, NMS scales without losing individualized student support.
 
 This repository is the single source of truth for the business model, curriculum, operations and launch plan. It is maintained by the NMS core team.
 
-> Scope note: This repository covers the cohort business model only. Product or web application discussions are tracked separately and are intentionally out of scope here.
+> Scope note: This repository covers the cohort business model, operations, and AI-assisted delivery architecture. Product application code is tracked separately.
 
 ---
 
@@ -25,11 +25,13 @@ This repository is the single source of truth for the business model, curriculum
 
 | Item | Detail |
 |---|---|
-| Tracks | CS/IT, BCA/MCA, Mechanical |
-| Batch size | 15 to 20 students |
-| Mentor ratio | 1 mentor per 4 to 5 students |
+| Tracks | 1. Combined Tech Track (CS/IT + BCA/MCA)<br/>2. Mechanical Track (Separate) |
+| Cohort 1 Size | 250 to 300 students |
+| Target Audience | Primarily 2nd and 3rd year students (plus 4th and 1st years) |
+| Delivery Model | Lead Teacher live masterclasses + 24/7 AI Assistant + Mock Evaluators |
 | Cohort length | 12 weeks |
-| Practice | Weekly mock interviews with written feedback |
+| Practice | 24/7 AI doubt resolution, weekly coding tests, weekly mocks with written feedback |
+| Certification | NMS Certificate of Completion with unique Verification ID (Udyam MSME registered).<br/>Post-founding batch: College MoUs & AICTE/NSDC exploration |
 | Promise | Honest roadmap. No placement guarantee. |
 
 ---
@@ -57,6 +59,7 @@ nms-placement-cohort/
 │   │   ├── business-model.md
 │   │   ├── market-and-audience.md
 │   │   ├── pricing.md
+│   │   ├── certification.md
 │   │   ├── go-to-market.md
 │   │   ├── roadmap.md
 │   │   ├── metrics.md
@@ -108,12 +111,13 @@ All diagrams use [Mermaid](https://mermaid.js.org/) and render natively on GitHu
 
 Tracked in [docs/decisions/](docs/decisions/) and as GitHub issues labelled `decision`.
 
-1. Final name, logo and tagline
-2. Mentor assignment per track
-3. Target year: pre-final or final year
-4. Pricing, after a short student survey
-5. Platform and community channel
-6. Business structure and payment collection
+1. Final name, logo and brand visuals (In progress — see [assets/README.md](assets/README.md))
+2. Pricing price-points, after student survey (In progress — see [docs/business/pricing.md](docs/business/pricing.md))
+3. Platform and community channel (Discord / Slack / LMS)
+4. AI Assistant tech stack and bot integration architecture
+5. Udyam MSME registration and payment gateway integration (In progress — ADR 0003)
+
+*Note: Program scale (250–300 students), track streams (Combined Tech + Mechanical), delivery architecture (Teacher + AI Assistant), target audience (2nd/3rd years primary), and certification roadmap are finalized in [ADR 0002](docs/decisions/0002-cohort-scale-tech-merger-ai-assistant.md) and [ADR 0003](docs/decisions/0003-certification-and-institutional-recognition.md).*
 
 ---
 

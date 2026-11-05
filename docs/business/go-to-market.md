@@ -17,19 +17,23 @@ flowchart TD
 
 | Channel | Use | Content examples |
 |---|---|---|
-| LinkedIn | Credibility, mentor profiles | Interview experience posts, resume before and after |
-| Instagram | Reach among students | Short tips, mock interview clips (with consent) |
-| YouTube | Depth and trust | Track roadmaps, mentor interviews |
-| College communities | Direct access | Free sessions, placement cell collaboration |
-| Referrals | Low-cost growth | Referral discount |
+| LinkedIn | Credibility, professional outcomes, mentor stories | Interview experience breakdowns, resume before/afters, verified placement advice |
+| Instagram | Reach among 2nd & 3rd year college students | Short concept reels, DSA pattern breakdowns, mock interview clips (with consent) |
+| YouTube | Educational depth and algorithmic walkthroughs | Stream roadmaps, live masterclass teasers, mentor career journeys |
+| College communities | Direct campus penetration | Free webinars, coding bootcamps, campus ambassador networks (laying groundwork for college MoUs) |
+| Referrals | Organic word-of-mouth | Referral discounts for enrolled peers |
 
 ## Trust Building
 
-1. Free resume reviews
-2. Free demo mock interview
-3. Transparent mentor profiles with verified claims
-4. Founding batch testimonials with consent
-5. Public, honest outcome tracking
+1. Free live resume reviews and ATS score checks
+2. Free demo mock interviews showcasing the standardized rubric
+3. Transparent lead teacher and mentor credentials
+4. Legal backing via **Udyam MSME Registration** and verifiable credential lookup
+5. Transparent outcome tracking—strictly avoiding false placement guarantees (ADR 0001)
+
+## Target Audience Targeting Strategy
+
+Outreach campaigns specifically focus on **2nd and 3rd year students (70–80% of cohort target)** across engineering colleges and BCA/MCA institutions, emphasizing early preparation for internships and 7th-semester campus drives, while offering fast-track support for 4th years and foundational bootcamps for 1st years.
 
 ## Content Pillars
 

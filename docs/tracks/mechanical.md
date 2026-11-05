@@ -1,7 +1,9 @@
-# Track: Mechanical
+# Track: Mechanical (Independent Stream)
 
-**Target:** B.Tech Mechanical
-**Why it matters:** Few players serve this segment, so this is our most distinctive track.
+> **Stream Note (ADR 0002):** Mechanical runs as a **completely separate, dedicated track** independent of the tech stream. It features its own Lead Teacher, subject matter question banks, company test simulations, and specialized core interview mocks.
+
+**Target:** B.Tech Mechanical students (primarily 2nd and 3rd year, plus select 4th and 1st year).  
+**Why it matters:** Few competitors serve this segment with structured placement prep. This is NMS's most distinctive offering.
 
 ## Flow
 

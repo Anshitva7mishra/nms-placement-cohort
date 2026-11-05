@@ -3,18 +3,17 @@
 ```mermaid
 flowchart LR
     A["Free Session or Resume Review"] --> B["Registration"]
-    B --> C["Baseline Test"]
-    C --> D{"Track Allocation"}
-    D --> E["CS/IT Track"]
-    D --> F["BCA/MCA Track"]
-    D --> G["Mechanical Track"]
-    E --> H["Weekly Learning Cycle"]
-    F --> H
-    G --> H
-    H --> I["Mock Interviews"]
-    I --> J["Feedback and Improvement"]
-    J --> K["Final Assessment"]
-    K --> L["Application and Interview Support"]
+    B --> C["Baseline Diagnostic Test"]
+    C --> D{"Stream Allocation"}
+    D --> E["Combined Tech Track<br/>(CS/IT + BCA/MCA)"]
+    D --> F["Mechanical Track<br/>(Separate Core)"]
+    E --> G["Weekly Cycle: Teacher + AI Assistant"]
+    F --> G
+    G --> H["Weekend Mock Interviews"]
+    H --> I["Continuous Feedback & Scorecard"]
+    I --> J["Final Assessment"]
+    J --> K["NMS Certificate of Completion<br/>(with Unique Verification ID)"]
+    K --> L["Application & Referral Support"]
 ```
 
 ## Stages
@@ -22,12 +21,22 @@ flowchart LR
 | Stage | Description | Owner |
 |---|---|---|
 | Discovery | Free session or resume review | Marketing and Community |
-| Registration | Form and onboarding | Operations |
-| Baseline test | Diagnostic for track allocation and tracking progress | Track mentors |
-| Track allocation | Student placed in CS/IT, BCA/MCA or Mechanical | Program Lead |
-| Weekly cycle | Concepts, practice, tests, mocks, review | Mentors |
-| Final assessment | Compare against baseline | Track mentors |
-| Application support | Resume, referrals, interview prep | Mentors |
+| Registration | Form, onboarding, fee processing | Operations and Finance |
+| Baseline test | Diagnostic for skill leveling and tracking progress | Lead Teachers & AI Assistant |
+| Stream allocation | Enrolled in Combined Tech or Independent Mechanical | Program Lead |
+| Weekly cycle | Concepts, 24/7 AI practice, mini-tests, mock drills | Lead Teachers & AI Assistant |
+| Mock interviews | Weekend 1-on-1 interviews with standard rubric | Mock Evaluators |
+| Final assessment | Comprehensive final test compared against baseline | Lead Teachers & AI Assistant |
+| **Certification** | Issuance of **NMS Certificate of Completion** with unique **Verification ID** under Udyam registration (ADR 0003) | Operations & Technology |
+| Application support | ATS resume polish, referral templates, off-campus sprints | Lead Teachers & Evaluators |
+
+## Certification Issuance Criteria
+
+To receive the verified certificate, students must meet:
+1. Minimum 80% attendance/engagement across weekly cycles.
+2. Submission of all weekly mini-tests and coding assignments.
+3. Completion of at least 4 live 1-on-1 mock interviews with passing rubric remarks.
+4. Demonstrated score improvement on the final assessment compared to baseline.
 
 ## Onboarding Checklist
 

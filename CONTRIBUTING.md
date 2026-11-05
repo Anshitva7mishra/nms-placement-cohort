@@ -28,7 +28,7 @@ Use short, clear messages in the form `type: summary`.
 ```text
 docs: add mock interview rubric to common modules
 fix: correct week count in cohort timeline
-decision: record target year as final year
+decision: record target audience and scale in adr 0002
 ```
 
 ## Writing Style
